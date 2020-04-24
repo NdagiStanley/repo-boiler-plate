@@ -1,0 +1,33 @@
+version: 2.1
+executors:
+  python-executor:
+    docker:
+      - image: python
+  ruby-executor:
+    docker:
+      - image: ruby
+orbs:
+    hello: circleci/hello-build@0.0.5
+jobs:
+  python-job:
+    executor: python-executor
+    steps:
+      - run: python -V
+  ruby-job:
+    executor: ruby-executor
+    steps:
+      - run: ruby -v
+  nodejs-job:
+    docker:
+      - image: circleci/node # the primary container, where your job's commands are run
+    steps:
+      - checkout # check out the code in the project directory
+      - run: node index.js
+workflows:
+  version: 2
+  build:
+    jobs:
+      - hello/hello-build
+      - python-job
+      - ruby-job
+      - nodejs-job
