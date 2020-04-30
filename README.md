@@ -174,13 +174,13 @@ These badges (seen when you collapse the above sections) are corresponding with 
 
     ![David](https://img.shields.io/david/vuejs/vue)
 
-- OpenSource libraries with [Libraries](libraries.io)
+- OpenSource libraries with [Libraries](https://libraries.io)
 
   * Repo: [NdagiStanley/vue-django](https://github.com/NdagiStanley/vue-django)
 
     ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/NdagiStanley/vue-django)
 
-- Python dependencies with [Requires](requires.io)
+- Python dependencies with [Requires](https://requires.io)
 
   * Repo: [NdagiStanley/django_girls_complete](https://github.com/NdagiStanley/django_girls_complete)
 
