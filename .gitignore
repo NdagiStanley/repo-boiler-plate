@@ -1,4 +1,9 @@
 # https://github.com/github/gitignore
 
+# wget https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore && mv Python.gitignore .gitignore
+# wget https://raw.githubusercontent.com/github/gitignore/master/Node.gitignore && mv Node.gitignore .gitignore
+# wget https://raw.githubusercontent.com/github/gitignore/master/Ruby.gitignore && mv Ruby.gitignore .gitignore
+
+
 # General
 .DS_Store
