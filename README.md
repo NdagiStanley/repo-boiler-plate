@@ -2,6 +2,13 @@
 
 This is a boilerplate you can use to have your repo set with my best practices: a README, git workflows, necessary tools, dependencies, file structure etc
 
+You can [create a repo out of this template](https://github.com/NdagiStanley/repo-boiler-plate/generate).
+
+Otherwise for a repo you've already started; here's a simple command to run at the root of your repository. (Please, ensure you commit your code before doing so. By that I mean; nothing should be in the staging area of git before running this so that you can much more easily decide which changes you are pulling in)
+```
+git clone https://github.com/NdagiStanley/repo-boiler-plate/.git && rm -rf repo-boiler-plate.git && cp -r repo-boiler-plate/. . && rm -rf repo-boiler-plate
+```
+
 ### Git
 
 Workflows:
