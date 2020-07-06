@@ -18,12 +18,10 @@ insert_final_newline = true
 trim_trailing_whitespace = true
 charset = utf-8
 indent_style = space
+# 2 space indentation by default
+indent_size = 2
 
 # Matches multiple files with brace expansion notation
-# 4 space indentation
+# 4 space indentation for specific extensions
 [*.{py,js,css,sh}]
 indent_size = 4
-
-# 2 space indentation
-[*.{json,html,svg,yml}]
-indent_size = 2
