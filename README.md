@@ -5,27 +5,32 @@ This is a boilerplate you can use to have your repo set with my best practices: 
 You can [create a repo out of this template](https://github.com/NdagiStanley/repo-boiler-plate/generate).
 
 Otherwise for a repo you've already started; here's a simple command to run at the root of your repository. (Please, ensure you commit your code before doing so. By that I mean; nothing should be in the staging area of git before running this so that you can much more easily decide which changes you are pulling in)
-```
+
+```bash
 git clone https://github.com/NdagiStanley/repo-boiler-plate/.git && rm -rf repo-boiler-plate.git && cp -r repo-boiler-plate/. . && rm -rf repo-boiler-plate
 ```
 
-### Git
+## Git
 
 Workflows:
-- `master` (Simple solo project)
-- `master - dev` (Low complexity project with collaborators)
-- `master - staging - develop` (Standard project)
-- `master - staging - develop - feature-review-...` (Highly complex project)
+
+- `main` (Simple solo project)
+- `main - dev` (Low complexity project with collaborators)
+- `main - staging - develop` (Standard project)
+- `main - staging - develop - feature-review-...` (Highly complex project)
 
 Branch naming conventions:
+
 - `task/...`
 - `fix/...` or `fx-..`
 - `feat/...` or `ft-..`
 
-### Necessary Tools
+## Necessary Tools
+
 A bad workman blames his tools! Nonetheless, build your tooling so that it in hand builds you.
 
 Here's mine:
+
 <details>
   <summary>Continuous Integration with <b>AppVeyor</b>, <b>CircleCI</b>, <b>Github actions</b>, <b>Netlify</b>, <b>SemaphoreCI</b>...</summary>
 
@@ -162,7 +167,7 @@ Here's mine:
   ![GitHub release](https://badgen.net/github/release/NdagiStanley/vue-django)
   ![Open Collective backers](https://badgen.net/opencollective/backers/vue-django)
 
-These badges (seen when you collapse the above sections) are corresponding with the tooling needed. Upon cloning the repo you simply edit the service's username and repo-name or project -name and where applicable the branch name
+These badges (seen when you collapse the above sections) are corresponding with the tooling needed. Upon cloning the repo you simply edit the service's username and repo-name or project-name and where applicable the branch-name.
 
 ### Dependencies
 
