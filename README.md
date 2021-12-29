@@ -53,6 +53,7 @@ Here's mine:
   * Repo: [NdagiStanley/vue-django](https://github.com/NdagiStanley/vue-django)
 
     [![Build Status](https://semaphoreci.com/api/v1/stanmd/vue-django/branches/master/shields_badge.svg)](https://semaphoreci.com/stanmd/vue-django)
+
 </details>
 
 <details>
@@ -64,6 +65,7 @@ Here's mine:
     ![Code Climate issues](https://img.shields.io/codeclimate/issues/NdagiStanley/django_girls_complete)
     ![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/NdagiStanley/django_girls_complete)
     ![Code Climate lines of code](https://badgen.net/codeclimate/loc/NdagiStanley/django_girls_complete)
+
 </details>
 
 <details>
@@ -72,6 +74,7 @@ Here's mine:
   * Repo: [NdagiStanley/repo-boiler-plate](https://github.com/NdagiStanley/repo-boiler-plate) (_this repo_)
 
     ![GitHub](https://img.shields.io/github/license/Ndagistanley/repo-boiler-plate)
+
 </details>
 
 <details>
@@ -86,6 +89,7 @@ Here's mine:
 
     ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/_/postgres?sort=semver)
     ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/_/postgres?sort=semver)
+
 </details>
 
 <details>
@@ -94,6 +98,7 @@ Here's mine:
   * Repo: [psf/black](https://github.com/psf/black)
 
     ![Read the Docs](https://img.shields.io/readthedocs/black)
+
 </details>
 
 #### Packaging
@@ -104,6 +109,7 @@ Here's mine:
   * Repo: [NdagiStanley/lifebuoy](https://github.com/NdagiStanley/lifebuoy)
 
     ![GitHub package.json version](https://img.shields.io/github/package-json/v/NdagiStanley/lifebuoy)
+
 </details>
 
 <details>
@@ -127,6 +133,7 @@ Here's mine:
   * Repo: [workforce-data-initiative/tpot-abacus](https://github.com/workforce-data-initiative/tpot-abacus)
 
     ![PyPI](https://img.shields.io/pypi/v/abacus-tpot)
+
 </details>
 
 <details>
@@ -139,6 +146,7 @@ Here's mine:
   * Repo: [http-party/http-server](https://github.com/http-party/http-server) | In NPM: [http-server](https://www.npmjs.com/package/http-server)
 
     ![node-current](https://img.shields.io/node/v/http-server)
+
 </details>
 
 <details>
@@ -149,6 +157,7 @@ Here's mine:
     ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/NdagiStanley.lifebuoy)
     ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/NdagiStanley.lifebuoy)
     ![Visual Studio Marketplace Ratings](https://badgen.net/vs-marketplace/rating/NdagiStanley.lifebuoy)
+
 </details>
 
 #### Matters opensource on GitHub
@@ -200,7 +209,7 @@ These badges (seen when you collapse the above sections) are corresponding with 
 </details>
 
 <details>
-  <summary>Vulnerbilities on <b>Snyk</b></summary>
+  <summary>Vulnerabilities on <b>Snyk</b></summary>
 
   * Repo: [NdagiStanley/vue-django](https://github.com/NdagiStanley/vue-django)
 
@@ -210,7 +219,7 @@ These badges (seen when you collapse the above sections) are corresponding with 
 ### Files
 
 ```bash
-$ curl https://raw.githubusercontent.com/NdagiStanley/repo-boiler-plate/main/.editorconfig > .editorconfig
+curl https://raw.githubusercontent.com/NdagiStanley/repo-boiler-plate/main/.editorconfig > .editorconfig
 ```
 
 - `.circleci/config.yml` file for *CircleCI* located at root of your repository
@@ -218,9 +227,9 @@ $ curl https://raw.githubusercontent.com/NdagiStanley/repo-boiler-plate/main/.ed
 - `.editorconfig` file, located at the root of the repo. Used to help contributors define and maintain consistent coding styles between different editors and IDEs
 - `.gitignore` file. Works with my [.gitignore_global](https://github.com/NdagiStanley/dotfiles/blob/main/git/.gitignore_global) file.
 
-
 ---
 References:
+
 - All matters Git: [Atlassian](https://www.atlassian.com/git/tutorials), [Git SCM](https://git-scm.com/docs)
 - Licenses: [Choose a license][license]
 - For badges/ shields: [shields.io][shields], [badgen.net][badgen]
