@@ -69,7 +69,7 @@ Here's mine:
 </details>
 
 <details>
-  <summary><b>Licencing</b></summary>
+  <summary><b>Licensing</b></summary>
 
   * Repo: [NdagiStanley/repo-boiler-plate](https://github.com/NdagiStanley/repo-boiler-plate) (_this repo_)
 
@@ -160,7 +160,7 @@ Here's mine:
 
 </details>
 
-#### Matters opensource on GitHub
+#### Matters open-source on GitHub
 
 - *torvalds/linux*
 
@@ -205,7 +205,7 @@ These badges (seen when you collapse the above sections) are corresponding with 
 
   * Repo: [NdagiStanley/django_girls_complete](https://github.com/NdagiStanley/django_girls_complete)
 
-    ![Requires.io](https://img.shields.io/requires/github/NdagiStanley/django_girls_complete)
+    [![Requirements Status](https://requires.io/github/NdagiStanley/django_girls_complete/requirements.svg?branch=master)](https://requires.io/github/NdagiStanley/django_girls_complete/requirements/?branch=master)
 </details>
 
 <details>
