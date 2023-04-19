@@ -230,7 +230,7 @@ curl https://raw.githubusercontent.com/NdagiStanley/repo-boiler-plate/main/.edit
   Speaking of `.gitignore`, find the default `.gitignore` files [here](https://github.com/github/gitignore). For example, the extensive `.gitignore` for Python projects is at <https://github.com/github/gitignore/blob/main/Python.gitignore>, hence: (Others: `Node`, `Go`, `Rust`, `Ruby` inplace of `Python` in the script)
 
   ```bash
-  curl https://raw.githubusercontent.com/gitignore/blob/main/Python.gitignore > .gitignore
+  curl https://raw.githubusercontent.com/github/gitignore/main/Python.gitignore > .gitignore
   ```
 
 ---
