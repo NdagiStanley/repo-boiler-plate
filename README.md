@@ -227,6 +227,12 @@ curl https://raw.githubusercontent.com/NdagiStanley/repo-boiler-plate/main/.edit
 - `.editorconfig` file, located at the root of the repo. Used to help contributors define and maintain consistent coding styles between different editors and IDEs
 - `.gitignore` file. Works with my [.gitignore_global](https://github.com/NdagiStanley/dotfiles/blob/main/git/.gitignore_global) file.
 
+  Speaking of `.gitignore`, find the default `.gitignore` files [here](https://github.com/github/gitignore). For example, the extensive `.gitignore` for Python projects is at <https://github.com/github/gitignore/blob/main/Python.gitignore>, hence: (Others: `Node`, `Go`, `Rust`, `Ruby` inplace of `Python` in the script)
+
+  ```bash
+  curl https://raw.githubusercontent.com/gitignore/blob/main/Python.gitignore > .gitignore
+  ```
+
 ---
 References:
 
