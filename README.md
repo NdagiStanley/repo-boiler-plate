@@ -222,6 +222,10 @@ These badges (seen when you collapse the above sections) are corresponding with 
 curl https://raw.githubusercontent.com/NdagiStanley/repo-boiler-plate/main/.editorconfig > .editorconfig
 ```
 
+```bash
+curl https://raw.githubusercontent.com/NdagiStanley/repo-boiler-plate/main/netlify.toml > netlify.toml
+```
+
 - `.circleci/config.yml` file for *CircleCI* located at root of your repository
 - `.dependabot/config.yml` file for *Dependabot* located at root of your repository (on the default branch)
 - `.editorconfig` file, located at the root of the repo. Used to help contributors define and maintain consistent coding styles between different editors and IDEs
