@@ -4,6 +4,7 @@
 # wget https://raw.githubusercontent.com/github/gitignore/master/Node.gitignore && mv Node.gitignore .gitignore
 # wget https://raw.githubusercontent.com/github/gitignore/master/Ruby.gitignore && mv Ruby.gitignore .gitignore
 
+# Alternatively use VSCode extension "gitignore" [Id: codezombiech.gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
 
 # General
 .DS_Store
