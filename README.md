@@ -236,6 +236,12 @@ curl https://raw.githubusercontent.com/NdagiStanley/repo-boiler-plate/main/.edit
 curl https://raw.githubusercontent.com/NdagiStanley/repo-boiler-plate/main/netlify.toml > netlify.toml
 ```
 
+#### cspell
+
+```bash
+touch cspell-wordlist.txt && curl https://raw.githubusercontent.com/NdagiStanley/repo-boiler-plate/main/cspell.json > cspell.json
+```
+
 - `.circleci/config.yml` file for _CircleCI_ located at root of your repository
 - `.dependabot/config.yml` file for _Dependabot_ located at root of your repository (on the default branch)
 - `.editorconfig` file, located at the root of the repo. Used to help contributors define and maintain consistent coding styles between different editors and IDEs
