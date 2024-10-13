@@ -1,0 +1,7 @@
+badgen
+codango
+pipexec
+Snyk
+tpot
+vuejs
+wordlist
