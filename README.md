@@ -111,11 +111,11 @@ Contained herein are [Markdown badges](https://ileriayo.github.io/markdown-badge
 
 ### Matters open-source on GitHub
 
-- *torvalds/linux*
+- _torvalds/linux_
 
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/torvalds/linux)
 
-- *NdagiStanley/vue-django*
+- _NdagiStanley/vue-django_
 
   ![GitHub issues](https://img.shields.io/github/issues/NdagiStanley/vue-django)
   ![GitHub stars](https://img.shields.io/github/stars/NdagiStanley/vue-django?style=social)
@@ -236,8 +236,8 @@ curl https://raw.githubusercontent.com/NdagiStanley/repo-boiler-plate/main/.edit
 curl https://raw.githubusercontent.com/NdagiStanley/repo-boiler-plate/main/netlify.toml > netlify.toml
 ```
 
-- `.circleci/config.yml` file for *CircleCI* located at root of your repository
-- `.dependabot/config.yml` file for *Dependabot* located at root of your repository (on the default branch)
+- `.circleci/config.yml` file for _CircleCI_ located at root of your repository
+- `.dependabot/config.yml` file for _Dependabot_ located at root of your repository (on the default branch)
 - `.editorconfig` file, located at the root of the repo. Used to help contributors define and maintain consistent coding styles between different editors and IDEs
 - `.gitignore` file. Works with my [.gitignore_global](https://github.com/NdagiStanley/dotfiles/blob/main/git/.gitignore_global) file.
 
