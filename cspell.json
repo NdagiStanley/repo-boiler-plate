@@ -3,7 +3,7 @@
   "dictionaryDefinitions": [
     {
       "name": "custom-words",
-      "path": "./cspell-wordlist.txt",
+      "path": "./cspell-word-list.txt",
       "addWords": true
     }
   ],
